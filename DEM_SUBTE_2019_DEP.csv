@@ -146,7 +146,6 @@ FECHA,HORA,LÍNEA,MOTIVO,DURACION
 13/11/2019,15:30:22,A,Servicio limitado entre Plaza de Mayo y Loria,00:01:53
 10/6/2019,21:44:11,A,Servicio con demora debido a la atencion medica a un usuario,00:01:52
 26/7/2019,13:26:12,A,Servicio con demora debido a la atencion medica a un usuario,00:01:50
-30/4/2019,08:42:09,B,Servicio interrumpido por medida de fuerza gremial,42:11:53
 29/5/2019,08:26:11,B,Servicio interrumpido por medida de fuerza gremial,20:31:52
 16/6/2019,15:44:10,B,Interrumpida por falta de suministro de energía eléctrica debido a causas ajenas,09:00:00
 25/3/2019,19:00:07,B,Servicio Limitado entre Rosas y Florida por operativo de seguridad en la vía pública,07:57:57
@@ -405,7 +404,6 @@ FECHA,HORA,LÍNEA,MOTIVO,DURACION
 8/8/2019,21:22:06,B,Servicio limitado entre L. N. Alem y Los Incas,00:01:59
 12/8/2019,20:30:10,B,Con demora por una formación detenida debido a un problema técnico,00:01:52
 29/7/2019,21:28:13,B,Servicio con demora debido a un problema técnico en una formación,00:01:50
-30/4/2019,08:42:09,C,Servicio interrumpido por medida de fuerza gremial,42:11:53
 29/5/2019,09:24:11,C,Servicio interrumpido por medida de fuerza gremial,19:33:52
 16/6/2019,15:44:10,C,Interrumpida por falta de suministro de energia electrica debido a causas ajenas,08:25:54
 28/7/2019,10:56:11,C,Iniciara su servicio a las 13 hs por obras relacionadas a la Central Obelisco,05:41:55
@@ -530,7 +528,6 @@ FECHA,HORA,LÍNEA,MOTIVO,DURACION
 23/5/2019,08:36:09,C,Servicio interrumpido,00:01:55
 28/3/2019,18:10:13,C,Servicio interrumpido,00:01:55
 27/6/2019,09:38:15,C,Interrupcion debido a un problema tecnico en una formacion,00:01:48
-30/4/2019,08:42:09,D,Servicio interrumpido por medida de fuerza gremial,42:11:53
 29/5/2019,09:24:11,D,Servicio interrumpido por medida de fuerza gremial,19:33:52
 1/3/2019,08:24:02,D,Servicio limitado entre Congreso de Tucuman y 9 de Julio,07:30:03
 16/6/2019,15:44:10,D,Interrumpida por falta de suministro de energia electrica debido a causas ajenas,04:56:00
@@ -755,7 +752,6 @@ FECHA,HORA,LÍNEA,MOTIVO,DURACION
 29/10/2019,17:14:12,D,Servicio con demora debido a un problematecnico en una formacion,00:01:50
 23/8/2019,17:32:12,D,Servicio limitado entre Catedral y Carranza,00:01:50
 4/11/2019,18:52:15,D,Trenes con destino a Congreso de Tucuman no se detienen en Scalabrini Ortiz.,00:01:48
-30/4/2019,08:42:09,E,Servicio interrumpido por medida de fuerza gremial,42:11:53
 29/5/2019,09:24:11,E,Servicio interrumpido por medida de fuerza gremial,19:33:52
 11/5/2019,08:56:02,E,Sin servicio por obras vinculadas con su extension.,18:40:02
 18/5/2019,09:04:07,E,Sin servicio por obras vinculadas con su extension.,17:51:54
@@ -1218,8 +1214,6 @@ FECHA,HORA,LÍNEA,MOTIVO,DURACION
 5/8/2019,16:44:10,E,Servicio Limitado entre Retiro y Entre Rios,00:01:52
 21/7/2019,12:22:12,E,Servicio limitado entre Pza. de los Virreyes y San Jose,00:01:51
 6/12/2019,21:10:13,E,Servicio con demora debido a la atencion medicaa un usuario.,00:01:49
-19/3/2019,08:08:02,H,Por operativo de seguridad en via publica: Servicio limitado Las Heras y Hospitales,42:50:07
-30/4/2019,08:42:09,H,Servicio interrumpido por medida de fuerza gremial,42:11:53
 29/5/2019,09:24:11,H,Servicio interrumpido por medida de fuerza gremial,19:33:52
 21/3/2019,08:12:09,H,Por operativo de seguridad en vÃ­a pÃºblica: Servicio limitado Las Heras y Hospitales,18:52:00
 22/3/2019,08:04:02,H,Por operativo de seguridad en vÃ­a pÃºblica: Servicio limitado Las Heras y Hospitales,10:44:07
